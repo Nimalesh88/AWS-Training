@@ -1,0 +1,18 @@
+Day 1: AWS Essentials & Core Services
+Concepts:
+
+Cloud Computing Overview (IaaS, PaaS, SaaS)
+AWS Global Infrastructure: Regions, AZs, Edge Locations
+AWS Free Tier and Pricing Model Overview
+AWS Console, CLI, and IAM Basics
+
+Core Services:
+Amazon EC2: Launching, SSH Access, EBS Volumes
+EC2 Security Groups & Key Pairs
+Amazon S3: Buckets, Object Storage, Access Policies
+EBS vs S3 vs EFS
+
+Hands-On Labs:
+Launch EC2 Instance with Apache/Nginx
+Upload and secure files on S3
+Use CLI to create and manage resources
